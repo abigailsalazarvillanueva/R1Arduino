@@ -23,6 +23,11 @@ y por ultimo el Botón musical Al presionar un botón, sonará una canción icó
 ![image](https://github.com/user-attachments/assets/3c13a760-6421-48a9-9783-505a009747b5)
 
 # Enlaces de la simulacion de wokwi
+el proyecto
+![image](https://github.com/user-attachments/assets/33813e7a-44d8-483a-aac2-713799ca543d)
+
+https://wokwi.com/projects/411166535210526721
+
 
 # Enlace al video de la simulacion en wokwi
 
