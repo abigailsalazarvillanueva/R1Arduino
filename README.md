@@ -15,5 +15,9 @@ y por ultimo el Botón musical Al presionar un botón, sonará una canción icó
 #![image](https://github.com/user-attachments/assets/ebc6881d-d59e-468e-9d73-128f1a311757)
 #![image](https://github.com/user-attachments/assets/b84c428e-6b55-4f21-af40-41f4ecbd55b6)
 
+#Software a utilizar 
+
+#![image](https://github.com/user-attachments/assets/5eb7e4ec-c981-4521-bd7c-a70523ddad89)
+
 
 
