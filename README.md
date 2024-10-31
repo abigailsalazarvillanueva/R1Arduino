@@ -75,6 +75,10 @@ Examen Final
  Modulo 4
  ![image](https://github.com/user-attachments/assets/98e27212-44de-49cf-bc02-bedc1a6d1dd5)
  Examen Final
+ ![image](https://github.com/user-attachments/assets/8fe2de5a-7a2b-46df-92f7-d1729cc0e0bf)
+
+ YA PASEMEEEE , POR FAVOR , LE PROMETO QUE ME PORTARE BIEN,  BUENO NO LE ASEGURO QUE ENTRE A CLASES XD
+
 
 
 
