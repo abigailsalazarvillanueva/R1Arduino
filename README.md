@@ -2,7 +2,7 @@
 jack skellington
 
 # Creador 
-Guadalupe Abigail Salazar Villanueva 
+Guadalupe Abigail Salazar Villanueva GDS0641
 
 # Explicacion de funcionamiento 
 
