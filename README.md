@@ -34,7 +34,11 @@ https://wokwi.com/projects/413280381589960705
 
 # imagen del navidad
 
-# Enlace al video de la simulacion en wokwi
+
+# enlace video Proyecto
+https://drive.google.com/file/d/1XFDWbXA0IzyfwGBhaBPStdttS5rBBGLK/view?usp=drive_link
+# enlace video navideño
+
 
 
 # Imagen de los examenes de cisco
