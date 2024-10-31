@@ -31,8 +31,11 @@ El proyecto
 https://wokwi.com/projects/413280381589960705
 
 # Enlace de simulacion de wokwi del personaje Navideño
+https://wokwi.com/projects/411190970894057473
+
 
 # imagen del navidad
+![image](https://github.com/user-attachments/assets/ecfa0d19-5312-474a-a59e-073ed8fd3051)
 
 
 # enlace video Proyecto
