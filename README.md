@@ -70,6 +70,9 @@ Examen Final
  ![Imagen de WhatsApp 2024-10-07 a las 02 18 02_83b2ec91](https://github.com/user-attachments/assets/02271fe0-3219-476d-bb87-c1d9c6bb4a97)
  Modulo 2
  ![Imagen de WhatsApp 2024-10-07 a las 02 41 01_4e7e484c](https://github.com/user-attachments/assets/a9ec775a-c33d-48b2-9014-7c12fe345372)
+ Modulo 3
+ ![image](https://github.com/user-attachments/assets/bae897c2-179e-410f-9b71-aa48894eb0d4)
+
 
 
 
