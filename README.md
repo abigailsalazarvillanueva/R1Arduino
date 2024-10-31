@@ -24,14 +24,18 @@ y por ultimo el Botón musical Al presionar un botón, sonará una canción icó
 
 # Enlaces de la simulacion de wokwi
 el proyecto
-![image](https://github.com/user-attachments/assets/33813e7a-44d8-483a-aac2-713799ca543d)
+![image](https://github.com/user-attachments/assets/67948fac-289b-4445-9eaa-cfc437349194)
 
-https://wokwi.com/projects/411166535210526721
+# Link del proyecto
+El proyecto
+https://wokwi.com/projects/413280381589960705
 
+# Enlace de simulacion de wokwi del personaje Navideño
+
+# imagen del navidad
 
 # Enlace al video de la simulacion en wokwi
 
-# Enlace de simulacion de wokwi del personaje Navideño
 
 # Imagen de los examenes de cisco
 Modulo 1
